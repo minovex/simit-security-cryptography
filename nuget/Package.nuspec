@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Simit.Security.Cryptography</id>
+    <version>1.0.0</version>
+    <authors>Mustafa Ozan Vural</authors>
+    <owners>Minovex</owners>
+    <projectUrl>https://github.com/minovex/simit-security-cryptography</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simit Security Cryptography Library</description>
+    <tags>Simit Security Cryptography</tags>
+  </metadata>
+</package>
